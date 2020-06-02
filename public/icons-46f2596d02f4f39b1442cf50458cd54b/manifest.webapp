@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "name": "smakosh.com",
+  "description": null,
+  "icons": {
+    "60": "/icons-46f2596d02f4f39b1442cf50458cd54b/firefox_app_60x60.png",
+    "128": "/icons-46f2596d02f4f39b1442cf50458cd54b/firefox_app_128x128.png",
+    "512": "/icons-46f2596d02f4f39b1442cf50458cd54b/firefox_app_512x512.png"
+  },
+  "developer": {
+    "name": null,
+    "url": null
+  }
+}
